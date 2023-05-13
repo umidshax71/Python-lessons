@@ -62,6 +62,6 @@
 
 
 
-# a = ["Qarshi", "Toshkent", "Samarqant" , "Buxoro", "Navoi"]
-# print(a[1][-1])
+a = ["Qarshi", "Toshkent", "Samarqant" , "Buxoro", "Navoi"]
+print(a[1][-1])
 
