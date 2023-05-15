@@ -89,11 +89,72 @@
 #         print(i)
 
 
-a = int(input("Son 1ni kiriting:"))
-b = int(input("Son 2ni kiriting:"))
-n = int(input("Son 2ni kiriting:"))
-if a >b:
-    print(a ,"Kotta ")
-        
+# a = int(input("Son 1ni kiriting:"))
+# b = int(input("Son 2ni kiriting:"))
+# n = int(input("Son 2ni kiriting:"))
+# if a >b:
+#     print(a ,"Kotta ")
+#
+
+
+# 19
+# a = int(input("Ixtiyori son kiriting:"))
+# if a == -1:
+#     print("bu manfi son")
+# else:
+#     print("Bu musbat son")
+
+# 20
+# a = input("fasl nomini kiriting:")
+# b = "Yanvar","Fevral","Mart"
+# c = "Aprel","May","Iyyun"
+# d = "Iyyul", "Avgust","Sentabr"
+# e = "oktyabr","Noyabr","Dekabr"
+# if a == "Bahor":
+#     print(b)
+# elif a == "Yozga":
+#     print(c)
+# elif a == "kuz":
+#     print(d)
+# elif a == "Qishga":
+#     print(e)
+# else:
+#     print("ERROR")
+
+
+# 21
+# a = input("Isminggizni kiriting:")
+# if a == "Azizbek":
+#     print("Kechirasiz bu foydalanuvchi oldin ruyxatdan utgan!")
+# else:
+#     print("Salom",a)
+# 22
+a = int(input("Oy raqamini kiriting:"))
+if a == 1:
+    print("Yanvar")
+elif a == 2:
+    print("Fefral")
+elif a == 3:
+    print("Maret")
+elif a == 4:
+    print("Aprel")
+elif a == 5:
+    print("May")
+elif a == 6:
+    print("Iyyun")
+elif a == 7:
+    print("Iyyul")
+elif a == 8:
+    print("Avgust")
+elif a == 9:
+    print("Sentabr")
+elif a == 10:
+    print("Oktabr")
+elif a == 11:
+    print("Noyabr")
+elif a == 12:
+    print("Dekabr")
+else:
+    print("ERROR")
 
 
