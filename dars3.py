@@ -79,6 +79,15 @@
 # for i in a:
 #     print("Salom", i)
 
+# 15
+# A = int(input("Biror son kiriting:"))
+# print(-A)
+# 16
+# A = ("Asad", "Doston", "sdfsfsdf")
+# if A == "Dostonga":
+#     print("Hayir hurmatli ",A)
+# else:
+#     print("Salom hurmatli" , A)
 # 17
 # a = ["Aziz" , "ASAD" , "NImadir"]
 # for i in a:
@@ -88,7 +97,7 @@
 #     else:
 #         print(i)
 
-
+# 18
 # a = int(input("Son 1ni kiriting:"))
 # b = int(input("Son 2ni kiriting:"))
 # n = int(input("Son 2ni kiriting:"))
@@ -129,32 +138,33 @@
 # else:
 #     print("Salom",a)
 # 22
-a = int(input("Oy raqamini kiriting:"))
-if a == 1:
-    print("Yanvar")
-elif a == 2:
-    print("Fefral")
-elif a == 3:
-    print("Maret")
-elif a == 4:
-    print("Aprel")
-elif a == 5:
-    print("May")
-elif a == 6:
-    print("Iyyun")
-elif a == 7:
-    print("Iyyul")
-elif a == 8:
-    print("Avgust")
-elif a == 9:
-    print("Sentabr")
-elif a == 10:
-    print("Oktabr")
-elif a == 11:
-    print("Noyabr")
-elif a == 12:
-    print("Dekabr")
-else:
-    print("ERROR")
+# a = int(input("Oy raqamini kiriting:"))
+# if a == 1:
+#     print("Yanvar")
+# elif a == 2:
+#     print("Fefral")
+# elif a == 3:
+#     print("Maret")
+# elif a == 4:
+#     print("Aprel")
+# elif a == 5:
+#     print("May")
+# elif a == 6:
+#     print("Iyyun")
+# elif a == 7:
+#     print("Iyyul")
+# elif a == 8:
+#     print("Avgust")
+# elif a == 9:
+#     print("Sentabr")
+# elif a == 10:
+#     print("Oktabr")
+# elif a == 11:
+#     print("Noyabr")
+# elif a == 12:
+#     print("Dekabr")
+# else:
+#     print("ERROR")
+
 
 
