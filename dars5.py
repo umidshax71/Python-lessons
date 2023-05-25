@@ -49,3 +49,8 @@
 # x = int(input("X ni kiriting:"))
 # y = (3*x**2)-(4*x)+6
 # print("Javob" ,y )
+
+
+
+# import math
+# math.
