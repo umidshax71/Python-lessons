@@ -21,3 +21,6 @@ while True:
     javob = input("Yana avtomobil qushasizmi y/n :")
     if javob == "n":
         break
+
+
+print(f"Mashinang giz ",kompaniya,"\n",model,"\n",rangi,"\n",yili,"\n",narxi,)
