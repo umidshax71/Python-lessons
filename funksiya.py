@@ -52,16 +52,16 @@
 # Mat(a)
 
 
-# def ism_yasash(ism, familiya, sharif=''):
-#     if sharif:
-#         yasash = f"{ism} | {familiya} | {sharif}"
-#     else:
-#         yasash = f"{ism} | {familiya}"
-#
-#     return yasash
-# t11 = ism_yasash("Umid", "asdasd")
-# t10 = ism_yasash("Umid","ISmoilov","sdfsdfsdfsdfsd")
-# print( t11)
+def ism_yasash(ism, familiya, sharif=''):
+    if sharif:
+        yasash = f"{ism} | {familiya} | {sharif}"
+    else:
+        yasash = f"{ism} | {familiya}"
+
+    return yasash
+t11 = ism_yasash("Umid", "asdasd")
+t10 = ism_yasash("Umid","ISmoilov","sdfsdfsdfsdfsd")
+print( t11)
 
 
 

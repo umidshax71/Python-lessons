@@ -45,9 +45,6 @@ elif a == "admin":
 
 
 
-
-
-
         # if a == 2006:
         #     print("Serverga kirdinggiz ")
         #     print("tanlang",'\n', "Maxsulotlartni ko'rish       >1<",'\n',"Maxsulot qushish      >2<","")
